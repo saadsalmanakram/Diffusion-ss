@@ -713,3 +713,9 @@ Ans- Latents are updated using the predicted noise residual and moving in the di
 
 (------------------------------------------------------------------------)
 
+120- What is the primary goal of DDIM inversion?
+
+Ans- The goal is to convert an image into a noisy latent that can then be used to regenerate the image through sampling, effectively reversing the diffusion process.
+
+(------------------------------------------------------------------------)
+
