@@ -454,4 +454,10 @@ Ans- Text is tokenized and fed through the CLIP text encoder to produce a numeri
 
 (------------------------------------------------------------------------)
 
+77- What is cross-attention, and how is it used in Stable Diffusion?
+
+Ans- Cross-attention layers in the UNet allow the model to attend to different tokens in the text conditioning, integrating relevant information into image generation.
+
+(------------------------------------------------------------------------)
+
 
