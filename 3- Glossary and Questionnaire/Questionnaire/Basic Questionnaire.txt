@@ -478,4 +478,10 @@ Ans- Other types include super-resolution, inpainting, and depth-to-image condit
 
 (------------------------------------------------------------------------)
 
+81- What is DreamBooth, and how is it related to Stable Diffusion?
+
+Ans- DreamBooth is a fine-tuning technique that customizes Stable Diffusion to generate images based on new concepts or styles.
+
+(------------------------------------------------------------------------)
+
 
