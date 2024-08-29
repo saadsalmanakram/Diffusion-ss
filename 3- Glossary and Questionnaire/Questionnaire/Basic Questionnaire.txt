@@ -593,4 +593,10 @@ Ans- Classifier-free guidance helps the student model match the teacher model’
 
 (------------------------------------------------------------------------)
 
+100- What are some key training improvements for diffusion models?
+
+Ans- Key improvements include tuning noise schedules, training on diverse aspect ratios, using cascaded models, better conditioning, and incorporating knowledge enhancement techniques.
+
+(------------------------------------------------------------------------)
+
 
