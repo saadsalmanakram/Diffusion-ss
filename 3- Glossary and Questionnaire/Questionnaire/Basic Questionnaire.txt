@@ -761,3 +761,9 @@ Ans- A diffusion model generates audio by first creating spectrograms using a 2D
 
 (------------------------------------------------------------------------)
 
+128- How is audio represented in a computer?
+
+Ans- Audio is typically represented as a waveform or a spectrogram, which encodes the amplitude of the sound signal over time or frequency.
+
+(------------------------------------------------------------------------)
+
