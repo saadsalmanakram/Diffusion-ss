@@ -244,3 +244,9 @@ Ans- Guidance is a technique where the model’s predictions are modified during
 
 (------------------------------------------------------------------------)
 
+42- How can additional inputs be used in diffusion models?
+
+Ans- Additional inputs, such as class labels or image captions, can be fed into the model to create a conditional model, allowing control over the generation at inference time.
+
+(------------------------------------------------------------------------)
+
