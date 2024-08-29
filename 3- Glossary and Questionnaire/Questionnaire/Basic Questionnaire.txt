@@ -388,4 +388,10 @@ Ans- It allows for larger effective batch sizes without increasing memory usage.
 
 (------------------------------------------------------------------------)
 
+66- Why is it beneficial to experiment with different guidance schedules?
+
+Ans- Different schedules can yield better control and quality in generated images.
+
+(------------------------------------------------------------------------)
+
 
