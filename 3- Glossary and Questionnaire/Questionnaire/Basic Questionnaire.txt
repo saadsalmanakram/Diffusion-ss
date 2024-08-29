@@ -400,4 +400,10 @@ Ans- Class conditioning is incorporated by mapping class labels to learned vecto
 
 (------------------------------------------------------------------------)
 
+68- How do you concatenate the class conditioning information with the input image?
+
+Ans- The class conditioning vector is expanded to match the input image dimensions and then concatenated along the channel dimension.
+
+(------------------------------------------------------------------------)
+
 
