@@ -737,3 +737,9 @@ Ans- Increasing the number of timesteps during inversion can improve accuracy by
 
 (------------------------------------------------------------------------)
 
+124- How would you use DDIM inversion to edit an image?
+
+Ans- Start with the original image, perform inversion to get a noisy latent, and then sample with a new prompt to generate an edited image while preserving the original content.
+
+(------------------------------------------------------------------------)
+
