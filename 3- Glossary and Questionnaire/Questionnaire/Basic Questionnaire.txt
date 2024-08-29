@@ -4,4 +4,8 @@ Ans- Diffusion models are a type of generative model that create data, like imag
 
 (------------------------------------------------------------------------)
 
+2- How do diffusion models differ from other generative models?
 
+Ans- Diffusion models use an iterative process that gradually refines noise to generate data, unlike other generative models that may use more direct methods.
+
+(-----------------------------------------------------------------------)
