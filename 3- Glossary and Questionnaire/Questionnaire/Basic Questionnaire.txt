@@ -58,3 +58,10 @@ Ans- What additional resources are recommended for deeper understanding of diffu
 
 (------------------------------------------------------------------------)
 
+11- What is the Hugging Face Diffusers library?
+
+Ans- A library for creating, training, and using diffusion models for image generation.
+
+(------------------------------------------------------------------------)
+
+
