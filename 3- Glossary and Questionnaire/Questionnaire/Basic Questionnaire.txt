@@ -70,4 +70,16 @@ Ans- Pipelines, Models, and Schedulers.
 
 (------------------------------------------------------------------------)
 
+13- What role does the UNet model play in diffusion models?
+
+Ans- It acts as the denoising network that predicts the noise added to the images.
+
+(------------------------------------------------------------------------)
+
+14- What is the purpose of the noise scheduler in a diffusion model?
+
+Ans- To control the amount of noise added at each timestep during training and inference.
+
+(------------------------------------------------------------------------)
+
 
