@@ -100,3 +100,9 @@ Ans- It determines how strongly the model tries to match the prompt during image
 
 (------------------------------------------------------------------------)
 
+18- Why do we need to resize images in the preprocessing step?
+
+Ans- To ensure all images have the same dimensions, making them suitable for model input.
+
+(-----------------------------------------------------------------------)
+
