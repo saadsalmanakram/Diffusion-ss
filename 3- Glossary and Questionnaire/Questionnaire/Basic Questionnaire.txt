@@ -166,3 +166,9 @@ Ans- Noise is added by mixing the input data with random noise, using a weighted
 
 (------------------------------------------------------------------------)
 
+29- What is a UNet and why is it used in this example?
+
+Ans- A UNet is a neural network architecture with a symmetric structure of downsampling and upsampling layers, used here to predict clean images from noisy inputs.
+
+(------------------------------------------------------------------------)
+
