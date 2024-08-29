@@ -539,4 +539,10 @@ Ans- The text encoder transforms tokenized text into embeddings that condition t
 
 (------------------------------------------------------------------------)
 
+91- What does the UNet model do in Stable Diffusion?
+
+Ans- The UNet predicts noise residuals from noisy latent inputs and text embeddings to refine the image during generation.
+
+(------------------------------------------------------------------------)
+
 
