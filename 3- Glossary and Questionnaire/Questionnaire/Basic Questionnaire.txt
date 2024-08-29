@@ -82,4 +82,9 @@ Ans- To control the amount of noise added at each timestep during training and i
 
 (------------------------------------------------------------------------)
 
+15- What is Dreambooth?
+
+Ans- A technique for fine-tuning diffusion models to learn specific concepts like a person's face or a particular object.
+
+(------------------------------------------------------------------------)
 
