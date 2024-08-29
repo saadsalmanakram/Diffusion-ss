@@ -214,3 +214,21 @@ Ans- Sampling involves generating images by iteratively refining random noise th
 
 (------------------------------------------------------------------------)
 
+37- What is the main challenge when predicting images from high noise levels?
+
+Ans- The main challenge is that high noise levels leave little useful information for the model, making accurate predictions difficult.
+
+(------------------------------------------------------------------------)
+
+38- What is the role of the DDPM noise schedule?
+
+Ans- The DDPM noise schedule controls how noise is added over time, influencing the model's training and sampling efficiency.
+
+(------------------------------------------------------------------------)
+
+39- How does timestep conditioning improve diffusion models?
+
+Ans- Timestep conditioning allows the model to adjust its predictions based on the specific noise level or timestep, improving the accuracy of denoising.
+
+(------------------------------------------------------------------------)
+
