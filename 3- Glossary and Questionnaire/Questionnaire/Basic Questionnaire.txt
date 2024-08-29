@@ -677,3 +677,9 @@ Ans- DDIM (Denoising Diffusion Implicit Models) is a sampling method in diffusio
 
 (------------------------------------------------------------------------)
 
+114- How does DDIM sampling differ from traditional diffusion models?
+
+Ans- DDIM allows for deterministic sampling, while traditional diffusion models are stochastic, incorporating random noise at each step.
+
+(------------------------------------------------------------------------)
+
