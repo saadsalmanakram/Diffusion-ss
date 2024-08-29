@@ -785,3 +785,9 @@ Ans- The DiffusionPipeline generates audio by creating spectrograms with a diffu
 
 (------------------------------------------------------------------------)
 
+132- What is the role of pipe.mel in the pipeline?
+
+Ans- pipe.mel handles the conversion between audio and spectrogram images, including both generating spectrograms and converting them back to audio.
+
+(------------------------------------------------------------------------)
+
