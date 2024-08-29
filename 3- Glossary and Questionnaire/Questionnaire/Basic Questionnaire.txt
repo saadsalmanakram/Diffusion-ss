@@ -460,4 +460,10 @@ Ans- Cross-attention layers in the UNet allow the model to attend to different t
 
 (------------------------------------------------------------------------)
 
+78- What is Classifier-Free Guidance (CFG) in Stable Diffusion?
+
+Ans- CFG enhances the alignment of generated images with the text prompt by adjusting the predictions made with and without text conditioning.
+
+(------------------------------------------------------------------------)
+
 
