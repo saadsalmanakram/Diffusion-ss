@@ -442,4 +442,10 @@ Ans- The VAE compresses images to smaller latent representations, making it comp
 
 (------------------------------------------------------------------------)
 
+75- What is text conditioning in Stable Diffusion?
+
+Ans- Text conditioning uses a text description as additional input to guide the image generation process during diffusion.
+
+(------------------------------------------------------------------------)
+
 
