@@ -268,3 +268,9 @@ Ans- The DDIM (Denoising Diffusion Implicit Models) sampling method is used to i
 
 (------------------------------------------------------------------------)
 
+46- How does the GLIDE model contribute to diffusion models?
+
+Ans- GLIDE introduces methods for conditioning diffusion models on text, enabling text-guided image generation and editing.
+
+(------------------------------------------------------------------------)
+
