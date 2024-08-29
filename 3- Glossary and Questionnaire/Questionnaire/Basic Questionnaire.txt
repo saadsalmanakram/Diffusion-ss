@@ -725,3 +725,9 @@ Ans- Latents are generated from the original image and then refined by moving th
 
 (------------------------------------------------------------------------)
 
+122- Why might inversion results differ from the original image after sampling?
+
+Ans- Differences can arise due to assumptions in noise prediction consistency and the number of timesteps used during inversion.
+
+(------------------------------------------------------------------------)
+
