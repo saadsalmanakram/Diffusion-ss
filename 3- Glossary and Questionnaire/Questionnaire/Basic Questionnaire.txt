@@ -436,4 +436,10 @@ Ans- Latent Diffusion compresses images using a Variational Auto-Encoder (VAE) b
 
 (------------------------------------------------------------------------)
 
+74- What is the role of the Variational Auto-Encoder (VAE) in Stable Diffusion?
+
+Ans- The VAE compresses images to smaller latent representations, making it computationally efficient to process high-resolution images.
+
+(------------------------------------------------------------------------)
+
 
