@@ -250,3 +250,9 @@ Ans- Additional inputs, such as class labels or image captions, can be fed into 
 
 (------------------------------------------------------------------------)
 
+43- What is the role of cross-attention layers in diffusion models?
+
+Ans- Cross-attention layers help incorporate textual or other sequential conditioning information into the denoising process of the UNet in diffusion models.
+
+(------------------------------------------------------------------------)
+
