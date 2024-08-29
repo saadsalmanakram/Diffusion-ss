@@ -136,3 +136,9 @@ Ans- It speeds up training by distributing the workload across multiple GPUs.
 
 (------------------------------------------------------------------------)
 
+24- What is the purpose of experiment logging during training?
+
+Ans- To track and analyze critical metrics like loss and model performance.
+
+(------------------------------------------------------------------------)
+
