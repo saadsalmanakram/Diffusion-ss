@@ -755,3 +755,9 @@ Ans- Null-text Inversion optimizes the inversion process further by adjusting th
 
 (------------------------------------------------------------------------)
 
+127- What is a diffusion model in the context of audio generation?
+
+Ans- A diffusion model generates audio by first creating spectrograms using a 2D UNet, then converting these spectrograms back into audio.
+
+(------------------------------------------------------------------------)
+
