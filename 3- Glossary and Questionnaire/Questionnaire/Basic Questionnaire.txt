@@ -671,3 +671,9 @@ Ans- Incorporating pre-trained models helps create more informative captions and
 
 (------------------------------------------------------------------------)
 
+113- What is DDIM sampling?
+
+Ans- DDIM (Denoising Diffusion Implicit Models) is a sampling method in diffusion models that predicts denoised images by reversing the diffusion process.
+
+(------------------------------------------------------------------------)
+
