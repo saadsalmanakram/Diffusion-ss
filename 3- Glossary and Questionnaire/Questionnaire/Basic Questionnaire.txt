@@ -773,3 +773,9 @@ Ans- Converting raw audio data into spectrograms helps simplify processing by tr
 
 (------------------------------------------------------------------------)
 
+130- What is a Mel spectrogram, and why is it used?
+
+Ans- A Mel spectrogram is a type of spectrogram that uses Mel-frequency scaling to better represent audio as perceived by human hearing.
+
+(------------------------------------------------------------------------)
+
