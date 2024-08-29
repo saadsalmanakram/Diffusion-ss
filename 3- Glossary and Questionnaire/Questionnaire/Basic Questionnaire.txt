@@ -238,3 +238,9 @@ Ans- Fine-tuning saves time and resources by starting from a model that already 
 
 (------------------------------------------------------------------------)
 
+41- What is guidance in the context of diffusion models?
+
+Ans- Guidance is a technique where the model’s predictions are modified during the generation process based on a guidance function to achieve desired outputs.
+
+(------------------------------------------------------------------------)
+
