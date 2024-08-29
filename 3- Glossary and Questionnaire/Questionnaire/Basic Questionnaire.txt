@@ -262,3 +262,9 @@ Ans- A class-conditioned diffusion model allows the generation of images based o
 
 (------------------------------------------------------------------------)
 
+45- What is the DDIM sampling method, and where is it used?
+
+Ans- The DDIM (Denoising Diffusion Implicit Models) sampling method is used to improve the sampling efficiency in diffusion models, and it is implemented in the DDIMScheduler.
+
+(------------------------------------------------------------------------)
+
