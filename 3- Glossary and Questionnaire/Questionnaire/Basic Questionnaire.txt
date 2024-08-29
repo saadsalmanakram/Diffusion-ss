@@ -39,3 +39,10 @@ Ans- Key steps include loading images, adding noise, feeding noisy images into t
 Ans- Iterative updates allow the model to progressively improve its output, correcting errors made in early stages.
 
 (-----------------------------------------------------------------------)
+
+8- How does the Hugging Face 🤗 Diffusers library help with diffusion models?
+
+Ans- The 🤗 Diffusers library provides tools and building blocks to easily create, train, and sample diffusion models.
+
+(-----------------------------------------------------------------------)
+
