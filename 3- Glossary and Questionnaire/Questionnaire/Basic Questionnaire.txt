@@ -8,4 +8,11 @@ Ans- Diffusion models are a type of generative model that create data, like imag
 
 Ans- Diffusion models use an iterative process that gradually refines noise to generate data, unlike other generative models that may use more direct methods.
 
-(-----------------------------------------------------------------------)
+(------------------------------------------------------------------------)
+
+3- What is the main idea behind the diffusion process in diffusion models?
+
+Ans- The diffusion process starts with random noise and iteratively denoises it in small steps to generate a coherent output.
+
+(------------------------------------------------------------------------)
+
