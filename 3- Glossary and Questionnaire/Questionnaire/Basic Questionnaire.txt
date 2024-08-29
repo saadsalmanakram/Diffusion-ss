@@ -130,3 +130,9 @@ Ans- Load data, add noise, feed noisy images into the model, evaluate denoising,
 
 (------------------------------------------------------------------------)
 
+23- How does multi-GPU training via 🤗 Accelerate benefit model training?
+
+Ans- It speeds up training by distributing the workload across multiple GPUs.
+
+(------------------------------------------------------------------------)
+
