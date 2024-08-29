@@ -647,4 +647,9 @@ Ans- DDIM Inversion is a technique that reverses the diffusion process to edit i
 
 (------------------------------------------------------------------------)
 
+109- How can you fine-tune an audio diffusion model for a specific genre?
+
+Ans- Fine-tuning involves training the model on spectrograms of the specific genre to adapt it to generate audio that fits the genre’s characteristics.
+
+(------------------------------------------------------------------------)
 
