@@ -611,4 +611,10 @@ Ans- Techniques for image editing include adding noise and denoising with new pr
 
 (------------------------------------------------------------------------)
 
+103- What are some methods for video generation using diffusion models?
+
+Ans- Video generation methods involve generating low-resolution and low-frame-rate video first, then applying spatial and temporal super-resolution.
+
+(------------------------------------------------------------------------)
+
 
