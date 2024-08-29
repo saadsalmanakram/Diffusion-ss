@@ -809,3 +809,9 @@ Ans- Resampling adjusts the sample rate of audio data to match the rate expected
 
 (------------------------------------------------------------------------)
 
+136- How do you ensure that the sample rate is correctly used in audio generation?
+
+Ans- Verify and match the sample rate of the audio data with the sample rate used by the model to avoid issues with playback speed.
+
+(------------------------------------------------------------------------)
+
