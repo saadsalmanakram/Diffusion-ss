@@ -779,3 +779,9 @@ Ans- A Mel spectrogram is a type of spectrogram that uses Mel-frequency scaling 
 
 (------------------------------------------------------------------------)
 
+131- How does the DiffusionPipeline handle audio generation?
+
+Ans- The DiffusionPipeline generates audio by creating spectrograms with a diffusion model and then converting those spectrograms back into audio.
+
+(------------------------------------------------------------------------)
+
