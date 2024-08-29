@@ -496,4 +496,10 @@ Ans- Inpainting regenerates specific masked regions of an image while keeping th
 
 (------------------------------------------------------------------------)
 
+84- What is the purpose of using a depth map in Depth-to-Image Stable Diffusion?
+
+Ans- 
+It conditions the model to generate images with a specific structure based on the provided depth information.
+
+(------------------------------------------------------------------------)
 
