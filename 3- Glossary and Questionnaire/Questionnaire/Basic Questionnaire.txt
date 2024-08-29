@@ -178,3 +178,9 @@ Ans- The BasicUNet in this example is a minimal implementation, using simple con
 
 (------------------------------------------------------------------------)
 
+31- What is the purpose of skip connections in a UNet?
+
+Ans- Skip connections help retain and transfer information from earlier layers directly to later layers, aiding in better reconstruction during upsampling.
+
+(------------------------------------------------------------------------)
+
