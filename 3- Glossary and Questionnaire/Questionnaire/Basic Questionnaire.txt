@@ -599,4 +599,10 @@ Ans- Key improvements include tuning noise schedules, training on diverse aspect
 
 (------------------------------------------------------------------------)
 
+101- What is the role of a mixture of denoising experts (MoDE) in diffusion models?
+
+Ans- MoDE involves training multiple model variants for different noise levels to improve denoising performance.
+
+(------------------------------------------------------------------------)
+
 
