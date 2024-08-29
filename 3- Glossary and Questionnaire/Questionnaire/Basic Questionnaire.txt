@@ -328,3 +328,9 @@ Ans- The scheduler handles the update steps for generating images from noise.
 
 (------------------------------------------------------------------------)
 
+56- Why might you use a lower learning rate during fine-tuning?
+
+Ans- To reduce the impact of noisy loss signals and prevent large weight updates.
+
+(------------------------------------------------------------------------)
+
