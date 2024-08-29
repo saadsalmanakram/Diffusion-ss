@@ -424,4 +424,10 @@ Ans- The loss is calculated by comparing the model's prediction to the added noi
 
 (------------------------------------------------------------------------)
 
+72- What is Stable Diffusion (SD)?
+
+Ans- Stable Diffusion is a text-conditioned latent diffusion model that generates high-quality images from text descriptions.
+
+(------------------------------------------------------------------------)
+
 
