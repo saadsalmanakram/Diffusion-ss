@@ -232,3 +232,9 @@ Ans- Timestep conditioning allows the model to adjust its predictions based on t
 
 (------------------------------------------------------------------------)
 
+40- Why is fine-tuning a pre-trained diffusion model beneficial?
+
+Ans- Fine-tuning saves time and resources by starting from a model that already knows how to denoise images, rather than training from scratch.
+
+(------------------------------------------------------------------------)
+
