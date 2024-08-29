@@ -208,3 +208,9 @@ Ans- The effectiveness is evaluated by tracking the loss reduction across epochs
 
 (------------------------------------------------------------------------)
 
+36- What is the significance of sampling in the context of diffusion models?
+
+Ans- Sampling involves generating images by iteratively refining random noise through the model's predictions, moving incrementally towards cleaner images.
+
+(------------------------------------------------------------------------)
+
