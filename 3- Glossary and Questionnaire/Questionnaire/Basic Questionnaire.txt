@@ -533,4 +533,10 @@ Ans- The tokenizer converts the text prompt into numerical tokens that can be pr
 
 (------------------------------------------------------------------------)
 
+90- How does the text encoder contribute to the image generation process?
+
+Ans- The text encoder transforms tokenized text into embeddings that condition the UNet model during image generation.
+
+(------------------------------------------------------------------------)
+
 
