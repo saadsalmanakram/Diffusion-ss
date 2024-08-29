@@ -304,3 +304,9 @@ Ans- It involves re-training an existing model on new data to change the output 
 
 (------------------------------------------------------------------------)
 
+52- What is guidance in the context of diffusion models?
+
+Ans- Guidance involves steering the generation process at inference time for additional control.
+
+(------------------------------------------------------------------------)
+
