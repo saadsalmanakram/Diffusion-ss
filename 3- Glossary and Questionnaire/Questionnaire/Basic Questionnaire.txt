@@ -316,3 +316,9 @@ Ans- By using a new scheduler to create a faster sampling loop.
 
 (------------------------------------------------------------------------)
 
+54- Why is gradient accumulation important in fine-tuning?
+
+Ans- It helps address small batch size issues by summing gradients across multiple batches.
+
+(------------------------------------------------------------------------)
+
