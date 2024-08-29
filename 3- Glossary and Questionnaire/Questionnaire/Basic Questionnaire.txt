@@ -527,4 +527,10 @@ Ans- The VAE encodes images into latent representations and decodes them back, a
 
 (------------------------------------------------------------------------)
 
+89- What is the function of the tokenizer in Stable Diffusion?
+
+Ans- The tokenizer converts the text prompt into numerical tokens that can be processed by the text encoder.
+
+(------------------------------------------------------------------------)
+
 
