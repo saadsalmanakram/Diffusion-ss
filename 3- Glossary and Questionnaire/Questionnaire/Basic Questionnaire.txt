@@ -617,4 +617,16 @@ Ans- Video generation methods involve generating low-resolution and low-frame-ra
 
 (------------------------------------------------------------------------)
 
+104- How does Riffusion use diffusion models for audio generation?
+
+Ans- Riffusion converts audio into spectrograms, which are then used to train diffusion models for audio synthesis, producing spectrograms that are converted back to audio.
+
+(------------------------------------------------------------------------)
+
+105- What advancements have been made in audio diffusion models recently?
+
+Ans- Recent advancements include MusicLM for text-to-audio generation, Noise2Music, Make-An-Audio, and Moûsai for diverse and high-quality audio synthesis.
+
+(------------------------------------------------------------------------)
+
 
