@@ -64,4 +64,10 @@ Ans- A library for creating, training, and using diffusion models for image gene
 
 (------------------------------------------------------------------------)
 
+12- What are the core components of a diffusion model in the Diffusers library?
+
+Ans- Pipelines, Models, and Schedulers.
+
+(------------------------------------------------------------------------)
+
 
