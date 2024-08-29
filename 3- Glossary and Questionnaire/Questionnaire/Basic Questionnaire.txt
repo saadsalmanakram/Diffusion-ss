@@ -605,4 +605,10 @@ Ans- MoDE involves training multiple model variants for different noise levels t
 
 (------------------------------------------------------------------------)
 
+102- How can diffusion models be used for image editing?
+
+Ans- Techniques for image editing include adding noise and denoising with new prompts, using masks for controlled edits, and applying cross-attention mechanisms.
+
+(------------------------------------------------------------------------)
+
 
