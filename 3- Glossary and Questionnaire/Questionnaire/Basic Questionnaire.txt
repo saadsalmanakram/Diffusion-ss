@@ -448,4 +448,10 @@ Ans- Text conditioning uses a text description as additional input to guide the 
 
 (------------------------------------------------------------------------)
 
+76- How is text transformed into a numerical representation for Stable Diffusion?
+
+Ans- Text is tokenized and fed through the CLIP text encoder to produce a numeric tensor used as conditioning.
+
+(------------------------------------------------------------------------)
+
 
