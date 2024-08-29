@@ -472,4 +472,10 @@ Ans- Higher CFG scales increase the influence of the text prompt, producing imag
 
 (------------------------------------------------------------------------)
 
+80- What are some other types of conditioning used in Stable Diffusion?
+
+Ans- Other types include super-resolution, inpainting, and depth-to-image conditioning, each adding specific controls over the generated images.
+
+(------------------------------------------------------------------------)
+
 
