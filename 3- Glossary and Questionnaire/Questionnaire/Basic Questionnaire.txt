@@ -731,3 +731,9 @@ Ans- Differences can arise due to assumptions in noise prediction consistency an
 
 (------------------------------------------------------------------------)
 
+123- How can you improve the accuracy of DDIM inversion?
+
+Ans- Increasing the number of timesteps during inversion can improve accuracy by better approximating the reverse diffusion process.
+
+(------------------------------------------------------------------------)
+
