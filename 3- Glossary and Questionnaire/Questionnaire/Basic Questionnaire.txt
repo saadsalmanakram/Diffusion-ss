@@ -833,3 +833,9 @@ Ans- Use techniques like inpainting or segment generation to extend shorter clip
 
 (------------------------------------------------------------------------)
 
+140- What challenges might you face when working with spectrograms and how can they be addressed?
+
+Ans- Challenges include handling the limited resolution and quality of spectrograms; solutions may involve using advanced augmentations or higher-resolution spectrograms.
+
+(------------------------------------------------------------------------)
+
