@@ -52,3 +52,9 @@ Ans- Exploring different design decisions helps in understanding how various com
 
 (------------------------------------------------------------------------)
 
+10- What additional resources are recommended for deeper understanding of diffusion models?
+
+Ans- What additional resources are recommended for deeper understanding of diffusion models?
+
+(------------------------------------------------------------------------)
+
