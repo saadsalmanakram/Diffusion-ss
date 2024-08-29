@@ -292,3 +292,9 @@ Ans- The script provides an easy way to experiment with different fine-tuning se
 
 (------------------------------------------------------------------------)
 
+50- What are the two main approaches for adapting existing diffusion models?
+
+Ans- Fine-tuning and guidance are the two main approaches.
+
+(------------------------------------------------------------------------)
+
