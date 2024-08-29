@@ -104,12 +104,17 @@ Ans- It determines how strongly the model tries to match the prompt during image
 
 Ans- To ensure all images have the same dimensions, making them suitable for model input.
 
-(-----------------------------------------------------------------------)
+(------------------------------------------------------------------------)
 
 19- What does the RandomHorizontalFlip() transform achieve in data preprocessing?
 
 Ans- It augments the dataset by randomly flipping images horizontally, increasing variability.
 
-(-----------------------------------------------------------------------)
+(------------------------------------------------------------------------)
 
- 
+20- Why are images normalized to the range (-1, 1) during preprocessing?
+
+Ans- Why are images normalized to the range (-1, 1) during preprocessing?
+
+(------------------------------------------------------------------------)
+
