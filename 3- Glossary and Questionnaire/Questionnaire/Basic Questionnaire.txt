@@ -701,3 +701,9 @@ Ans- DDIM inversion uses a structured approach to reverse the diffusion process,
 
 (------------------------------------------------------------------------)
 
+118- How is the noise residual predicted in DDIM sampling?
+
+Ans- The noise residual is predicted by the neural network model and is used to update the latent representation from one timestep to the next.
+
+(------------------------------------------------------------------------)
+
