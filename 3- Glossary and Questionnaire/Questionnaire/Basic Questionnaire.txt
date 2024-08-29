@@ -466,4 +466,10 @@ Ans- CFG enhances the alignment of generated images with the text prompt by adju
 
 (------------------------------------------------------------------------)
 
+79- How does CFG impact the generated images in Stable Diffusion?
+
+Ans- Higher CFG scales increase the influence of the text prompt, producing images that better match the description.
+
+(------------------------------------------------------------------------)
+
 
