@@ -184,3 +184,15 @@ Ans- Skip connections help retain and transfer information from earlier layers d
 
 (------------------------------------------------------------------------)
 
+32- How does the UNet predict the original image from corrupted input?
+
+Ans- The UNet processes the corrupted input through its layers and outputs a prediction that aims to approximate the original clean image.
+
+(------------------------------------------------------------------------)
+
+33- What loss function is used in the training of the BasicUNet, and why?
+
+Ans- Mean Squared Error (MSE) is used to measure the difference between the predicted and original images, guiding the network to reduce this error during training.
+
+(------------------------------------------------------------------------)
+
