@@ -707,3 +707,9 @@ Ans- The noise residual is predicted by the neural network model and is used to 
 
 (------------------------------------------------------------------------)
 
+119- How does the DDIM sampling algorithm update latents?
+
+Ans- Latents are updated using the predicted noise residual and moving in the direction of the predicted denoised image, while considering the noise schedule parameters.
+
+(------------------------------------------------------------------------)
+
