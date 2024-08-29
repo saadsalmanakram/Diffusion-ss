@@ -118,3 +118,9 @@ Ans- Why are images normalized to the range (-1, 1) during preprocessing?
 
 (------------------------------------------------------------------------)
 
+21- How does the DDPMScheduler add noise to images?
+
+Ans- By following a predefined noise schedule across multiple timesteps during training.
+
+(------------------------------------------------------------------------)
+
