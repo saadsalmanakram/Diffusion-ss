@@ -749,3 +749,9 @@ Ans- DDIM inversion provides more controlled edits by preserving the original co
 
 (------------------------------------------------------------------------)
 
+126- What is ‘Null-text Inversion’ and how does it relate to DDIM?
+
+Ans- Null-text Inversion optimizes the inversion process further by adjusting the null text (unconditional prompt) to achieve more accurate inversions and edits compared to standard DDIM.
+
+(------------------------------------------------------------------------)
+
