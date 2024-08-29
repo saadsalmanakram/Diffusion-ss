@@ -382,4 +382,10 @@ Ans- By adjusting the scale of the conditioning gradient during generation.
 
 (------------------------------------------------------------------------)
 
+65- What is gradient accumulation's impact on GPU memory usage?
+
+Ans- It allows for larger effective batch sizes without increasing memory usage.
+
+(------------------------------------------------------------------------)
+
 
