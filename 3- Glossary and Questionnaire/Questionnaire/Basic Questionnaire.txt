@@ -581,4 +581,10 @@ Ans- The depth-to-image pipeline generates images based on depth maps, creating 
 
 (------------------------------------------------------------------------)
 
+98- What is progressive distillation in diffusion models?
+
+Ans- Progressive distillation involves training a student model from a teacher model to achieve faster sampling by requiring fewer steps for inference.
+
+(------------------------------------------------------------------------)
+
 
