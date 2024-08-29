@@ -352,4 +352,10 @@ Ans- It embeds both text prompts and images and compares them to guide the gener
 
 (------------------------------------------------------------------------)
 
+60- What is the importance of scheduling in the guidance process?
+
+Ans- Scheduling affects when and how much the guidance influences the generation process.
+
+(------------------------------------------------------------------------)
+
 
