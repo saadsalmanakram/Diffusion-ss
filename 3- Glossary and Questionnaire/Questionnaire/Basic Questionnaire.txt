@@ -280,3 +280,9 @@ Ans- eDiffi shows how different kinds of conditioning can be combined to give mo
 
 (------------------------------------------------------------------------)
 
+48- Why is it recommended to use a GPU when working with the notebooks in this unit?
+
+Ans- Using a GPU accelerates the computationally intensive fine-tuning and generation processes in diffusion models.
+
+(------------------------------------------------------------------------)
+
