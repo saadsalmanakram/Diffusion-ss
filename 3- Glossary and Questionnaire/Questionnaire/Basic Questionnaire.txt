@@ -545,4 +545,10 @@ Ans- The UNet predicts noise residuals from noisy latent inputs and text embeddi
 
 (------------------------------------------------------------------------)
 
+92- What is the purpose of the scheduler in Stable Diffusion?
+
+Ans- The scheduler manages the noise level during the diffusion process and updates the noisy sample according to the model's predictions.
+
+(------------------------------------------------------------------------)
+
 
