@@ -334,3 +334,9 @@ Ans- To reduce the impact of noisy loss signals and prevent large weight updates
 
 (------------------------------------------------------------------------)
 
+57- What is the purpose of saving a fine-tuned pipeline to the hub?
+
+Ans- It allows for easy sharing and reuse of the fine-tuned model.
+
+(------------------------------------------------------------------------)
+
