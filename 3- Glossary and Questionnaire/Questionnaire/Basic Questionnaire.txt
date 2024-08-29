@@ -659,3 +659,9 @@ Ans- Challenges include handling large data volumes and efficiently applying spa
 
 (------------------------------------------------------------------------)
 
+111- What is the significance of the UNet architecture in diffusion models?
+
+Ans- The UNet architecture is pivotal in many diffusion models for its effectiveness in generating high-quality images through a multi-scale approach.
+
+(------------------------------------------------------------------------)
+
