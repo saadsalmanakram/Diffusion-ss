@@ -815,3 +815,8 @@ Ans- Verify and match the sample rate of the audio data with the sample rate use
 
 (------------------------------------------------------------------------)
 
+137- What is the purpose of a training loop in fine-tuning a diffusion model?
+
+Ans- The training loop updates the model parameters by comparing generated outputs to target spectrograms and minimizing the loss through optimization.
+
+(------------------------------------------------------------------------)
