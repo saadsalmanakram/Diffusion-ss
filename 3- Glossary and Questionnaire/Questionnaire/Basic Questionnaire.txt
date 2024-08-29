@@ -154,3 +154,9 @@ Ans- To efficiently manage and store large model files in a Git repository.
 
 (------------------------------------------------------------------------)
 
+27- What is the corruption process in the context of diffusion models?
+
+Ans- The corruption process involves adding noise to the data, where the noise amount can be controlled to vary the level of corruption.
+
+(------------------------------------------------------------------------)
+
