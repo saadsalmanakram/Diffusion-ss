@@ -1,0 +1,7 @@
+1- What are diffusion models?
+
+Ans- Diffusion models are a type of generative model that create data, like images, by iteratively refining random noise until a final output is produced.
+
+(------------------------------------------------------------------------)
+
+
