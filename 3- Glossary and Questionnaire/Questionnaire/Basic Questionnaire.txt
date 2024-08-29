@@ -196,3 +196,9 @@ Ans- Mean Squared Error (MSE) is used to measure the difference between the pred
 
 (------------------------------------------------------------------------)
 
+34- Why do we use a corruption parameter that varies across a batch during training?
+
+Ans- Varying the corruption parameter across the batch simulates different noise levels, helping the model learn to handle varying degrees of corruption.
+
+(------------------------------------------------------------------------)
+
