@@ -412,4 +412,10 @@ Ans- Labels are passed to guide the model in generating images that correspond t
 
 (------------------------------------------------------------------------)
 
+70- How do you ensure the conditioning information matches the input image shape?
+
+Ans- The conditioning vector is reshaped and expanded to match the image's width and height.
+
+(------------------------------------------------------------------------)
+
 
