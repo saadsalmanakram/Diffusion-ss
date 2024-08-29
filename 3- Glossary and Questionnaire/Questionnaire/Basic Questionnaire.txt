@@ -820,3 +820,10 @@ Ans- Verify and match the sample rate of the audio data with the sample rate use
 Ans- The training loop updates the model parameters by comparing generated outputs to target spectrograms and minimizing the loss through optimization.
 
 (------------------------------------------------------------------------)
+
+138- How can you upload a custom-trained model to the Hugging Face hub?
+
+Ans- Save the model locally, create a repository on the hub, and upload the model files and a model card to the repository.
+
+(------------------------------------------------------------------------)
+
