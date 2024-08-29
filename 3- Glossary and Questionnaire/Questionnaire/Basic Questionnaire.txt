@@ -484,4 +484,10 @@ Ans- DreamBooth is a fine-tuning technique that customizes Stable Diffusion to g
 
 (------------------------------------------------------------------------)
 
+82- What does the Stable Diffusion Upscaler do?
+
+Ans- It generates high-resolution images from low-resolution inputs through additional conditioning.
+
+(------------------------------------------------------------------------)
+
 
