@@ -298,3 +298,9 @@ Ans- Fine-tuning and guidance are the two main approaches.
 
 (------------------------------------------------------------------------)
 
+51- What does fine-tuning a diffusion model involve?
+
+Ans- It involves re-training an existing model on new data to change the output type.
+
+(------------------------------------------------------------------------)
+
