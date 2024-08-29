@@ -376,4 +376,10 @@ Ans- Fine-tuning starts with an existing model and adjusts it based on new data,
 
 (------------------------------------------------------------------------)
 
+64- How can you control the influence of guidance during the diffusion process?
+
+Ans- By adjusting the scale of the conditioning gradient during generation.
+
+(------------------------------------------------------------------------)
+
 
