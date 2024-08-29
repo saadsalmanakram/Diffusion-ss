@@ -340,3 +340,9 @@ Ans- It allows for easy sharing and reuse of the fine-tuned model.
 
 (------------------------------------------------------------------------)
 
+58- What does CLIP guidance provide in diffusion models?
+
+Ans- CLIP guidance allows controlling generation using text prompts.
+
+(------------------------------------------------------------------------)
+
