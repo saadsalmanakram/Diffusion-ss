@@ -695,3 +695,9 @@ Ans- DDIM inversion aims to reverse the sampling process to find a noisy latent 
 
 (------------------------------------------------------------------------)
 
+117- How does DDIM inversion differ from simple noise addition for image editing?
+
+Ans- DDIM inversion uses a structured approach to reverse the diffusion process, leading to more controlled and precise edits compared to random noise addition.
+
+(------------------------------------------------------------------------)
+
