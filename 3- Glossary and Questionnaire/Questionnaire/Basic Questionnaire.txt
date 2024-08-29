@@ -509,3 +509,9 @@ Ans- By compressing them into latent spaces using VAE before applying the diffus
 
 (------------------------------------------------------------------------)
 
+86- What is the purpose of the StableDiffusionPipeline in Stable Diffusion?
+
+Ans- The StableDiffusionPipeline generates images from text prompts by using a combination of models and components to produce high-quality images.
+
+(------------------------------------------------------------------------)
+
