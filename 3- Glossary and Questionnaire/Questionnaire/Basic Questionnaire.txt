@@ -430,4 +430,10 @@ Ans- Stable Diffusion is a text-conditioned latent diffusion model that generate
 
 (------------------------------------------------------------------------)
 
+73- How does Latent Diffusion help reduce computational costs?
+
+Ans- Latent Diffusion compresses images using a Variational Auto-Encoder (VAE) before applying the diffusion process, reducing memory and computational requirements.
+
+(------------------------------------------------------------------------)
+
 
