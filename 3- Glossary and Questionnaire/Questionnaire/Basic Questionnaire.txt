@@ -557,4 +557,10 @@ Ans- Different schedulers modify the noise schedule and sampling process, affect
 
 (------------------------------------------------------------------------)
 
+94- What are the advantages of using a latent diffusion model over working with high-resolution images directly?
+
+Ans- Latent diffusion models are more computationally efficient and require less memory by processing lower-dimensional latent representations.
+
+(------------------------------------------------------------------------)
+
 
