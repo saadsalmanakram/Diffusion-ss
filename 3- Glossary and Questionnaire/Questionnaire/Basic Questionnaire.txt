@@ -406,4 +406,10 @@ Ans- The class conditioning vector is expanded to match the input image dimensio
 
 (------------------------------------------------------------------------)
 
+69- Why do we pass labels as an additional argument during training and inference?
+
+Ans- Labels are passed to guide the model in generating images that correspond to specific digits.
+
+(------------------------------------------------------------------------)
+
 
