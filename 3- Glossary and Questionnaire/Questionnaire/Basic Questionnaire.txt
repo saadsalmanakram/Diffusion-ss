@@ -358,4 +358,10 @@ Ans- Scheduling affects when and how much the guidance influences the generation
 
 (------------------------------------------------------------------------)
 
+61- Why would you share a custom sampling loop using Gradio and 🤗 Spaces?
+
+Ans- To make it easy for others to interact with and use the customized diffusion model.
+
+(------------------------------------------------------------------------)
+
 
