@@ -370,4 +370,10 @@ Ans- It steers the generation towards producing images with a specific color.
 
 (------------------------------------------------------------------------)
 
+63- How does fine-tuning differ from training a model from scratch?
+
+Ans- Fine-tuning starts with an existing model and adjusts it based on new data, while training from scratch starts with an untrained model.
+
+(------------------------------------------------------------------------)
+
 
