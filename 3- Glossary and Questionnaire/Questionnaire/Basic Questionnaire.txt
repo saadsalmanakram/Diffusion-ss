@@ -563,4 +563,10 @@ Ans- Latent diffusion models are more computationally efficient and require less
 
 (------------------------------------------------------------------------)
 
+95- Why must the width and height of generated images be divisible by 8 in Stable Diffusion?
+
+Ans- The VAE processes images in latent space where the dimensions must be divisible by 8 to maintain consistency in encoding and decoding.
+
+(------------------------------------------------------------------------)
+
 
