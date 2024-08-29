@@ -364,4 +364,10 @@ Ans- To make it easy for others to interact with and use the customized diffusio
 
 (------------------------------------------------------------------------)
 
+62- What is the function of a color-based loss in guidance?
+
+Ans- It steers the generation towards producing images with a specific color.
+
+(------------------------------------------------------------------------)
+
 
