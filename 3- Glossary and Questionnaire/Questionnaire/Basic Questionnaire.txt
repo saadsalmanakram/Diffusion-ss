@@ -839,3 +839,9 @@ Ans- Challenges include handling the limited resolution and quality of spectrogr
 
 (------------------------------------------------------------------------)
 
+141- How can you verify the quality of the generated audio?
+
+Ans- Evaluate the generated audio by listening to it and comparing it with real examples to assess its fidelity and naturalness.
+
+(------------------------------------------------------------------------)
+
