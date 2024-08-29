@@ -88,3 +88,9 @@ Ans- A technique for fine-tuning diffusion models to learn specific concepts lik
 
 (------------------------------------------------------------------------)
 
+16- Why is the Stable Diffusion Pipeline used in the notebook?
+
+Ans- To demonstrate the process of generating images using a pre-trained diffusion model.
+
+(------------------------------------------------------------------------)
+
