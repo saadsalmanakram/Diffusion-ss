@@ -653,3 +653,9 @@ Ans- Fine-tuning involves training the model on spectrograms of the specific gen
 
 (------------------------------------------------------------------------)
 
+110- What are some challenges associated with high-resolution video generation in diffusion models?
+
+Ans- Challenges include handling large data volumes and efficiently applying spatial and temporal super-resolution techniques.
+
+(------------------------------------------------------------------------)
+
