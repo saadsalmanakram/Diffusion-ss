@@ -124,3 +124,9 @@ Ans- By following a predefined noise schedule across multiple timesteps during t
 
 (------------------------------------------------------------------------)
 
+22- What are the steps in training a diffusion model from scratch?
+
+Ans- Load data, add noise, feed noisy images into the model, evaluate denoising, update model weights, and repeat.
+
+(------------------------------------------------------------------------)
+
