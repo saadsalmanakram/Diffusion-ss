@@ -148,3 +148,9 @@ Ans- By using Git-LFS and the Hugging Face CLI to push the model's weights and c
 
 (------------------------------------------------------------------------)
 
+26- Why is Git-LFS required for uploading model checkpoints?
+
+Ans- To efficiently manage and store large model files in a Git repository.
+
+(------------------------------------------------------------------------)
+
