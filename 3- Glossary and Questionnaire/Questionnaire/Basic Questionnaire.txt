@@ -503,3 +503,9 @@ It conditions the model to generate images with a specific structure based on th
 
 (------------------------------------------------------------------------)
 
+85- How does the Stable Diffusion model handle the large size of images?
+
+Ans- By compressing them into latent spaces using VAE before applying the diffusion process.
+
+(------------------------------------------------------------------------)
+
