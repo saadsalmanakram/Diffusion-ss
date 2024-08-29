@@ -346,3 +346,10 @@ Ans- CLIP guidance allows controlling generation using text prompts.
 
 (------------------------------------------------------------------------)
 
+59- How does CLIP guidance work?
+
+Ans- It embeds both text prompts and images and compares them to guide the generation process.
+
+(------------------------------------------------------------------------)
+
+
