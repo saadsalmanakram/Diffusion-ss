@@ -767,3 +767,9 @@ Ans- Audio is typically represented as a waveform or a spectrogram, which encode
 
 (------------------------------------------------------------------------)
 
+129- What is the purpose of converting raw audio data into spectrograms?
+
+Ans- Converting raw audio data into spectrograms helps simplify processing by transforming it into a 2D image representation of frequencies over time.
+
+(------------------------------------------------------------------------)
+
