@@ -551,4 +551,10 @@ Ans- The scheduler manages the noise level during the diffusion process and upda
 
 (------------------------------------------------------------------------)
 
+93- What is the difference between using different schedulers in Stable Diffusion?
+
+Ans- Different schedulers modify the noise schedule and sampling process, affecting the quality and style of the generated images.
+
+(------------------------------------------------------------------------)
+
 
