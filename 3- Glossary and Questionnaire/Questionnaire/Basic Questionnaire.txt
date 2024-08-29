@@ -665,3 +665,9 @@ Ans- The UNet architecture is pivotal in many diffusion models for its effective
 
 (------------------------------------------------------------------------)
 
+112- What is the purpose of incorporating pre-trained image captioning models into diffusion training?
+
+Ans- Incorporating pre-trained models helps create more informative captions and improves the overall performance of text-to-image generation tasks.
+
+(------------------------------------------------------------------------)
+
