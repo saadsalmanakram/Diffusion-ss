@@ -46,3 +46,9 @@ Ans- The 🤗 Diffusers library provides tools and building blocks to easily cre
 
 (-----------------------------------------------------------------------)
 
+9- Why is it important to explore different design decisions in diffusion models?
+
+Ans- Exploring different design decisions helps in understanding how various components affect model performance and output quality.
+
+(------------------------------------------------------------------------)
+
