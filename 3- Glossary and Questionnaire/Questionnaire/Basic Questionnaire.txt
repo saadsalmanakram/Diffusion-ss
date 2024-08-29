@@ -803,3 +803,9 @@ Ans- Prepare a custom collate function to convert audio slices into spectrogram 
 
 (------------------------------------------------------------------------)
 
+135- Why is resampling important when working with audio data?
+
+Ans- Resampling adjusts the sample rate of audio data to match the rate expected by the model, ensuring consistent audio processing.
+
+(------------------------------------------------------------------------)
+
