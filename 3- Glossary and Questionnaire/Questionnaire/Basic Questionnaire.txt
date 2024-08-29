@@ -172,3 +172,9 @@ Ans- A UNet is a neural network architecture with a symmetric structure of downs
 
 (------------------------------------------------------------------------)
 
+30- How does the BasicUNet implementation differ from a full-scale UNet?
+
+Ans- The BasicUNet in this example is a minimal implementation, using simple convolutional layers and max pooling for downsampling, and it lacks the complexity of a full-scale UNet.
+
+(------------------------------------------------------------------------)
+
