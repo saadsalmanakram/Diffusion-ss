@@ -521,3 +521,10 @@ Ans- It converts the text prompt into embeddings, uses a UNet to process these e
 
 (------------------------------------------------------------------------)
 
+88- What role does the VAE (Variational Autoencoder) play in Stable Diffusion?
+
+Ans- The VAE encodes images into latent representations and decodes them back, allowing efficient processing and generation of images.
+
+(------------------------------------------------------------------------)
+
+
