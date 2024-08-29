@@ -142,3 +142,9 @@ Ans- To track and analyze critical metrics like loss and model performance.
 
 (------------------------------------------------------------------------)
 
+25- How can you upload a trained model to the Hugging Face Hub?
+
+Ans- By using Git-LFS and the Hugging Face CLI to push the model's weights and configuration to the Hub.
+
+(------------------------------------------------------------------------)
+
