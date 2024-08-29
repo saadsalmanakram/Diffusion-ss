@@ -743,3 +743,9 @@ Ans- Start with the original image, perform inversion to get a noisy latent, and
 
 (------------------------------------------------------------------------)
 
+125- What is the benefit of using DDIM inversion over img2img for image editing?
+
+Ans- DDIM inversion provides more controlled edits by preserving the original content more accurately compared to img2img, which can lead to more drastic or inconsistent changes.
+
+(------------------------------------------------------------------------)
+
