@@ -274,3 +274,9 @@ Ans- GLIDE introduces methods for conditioning diffusion models on text, enablin
 
 (------------------------------------------------------------------------)
 
+47- What does eDiffi demonstrate in the context of diffusion models?
+
+Ans- eDiffi shows how different kinds of conditioning can be combined to give more control over the generated samples.
+
+(------------------------------------------------------------------------)
+
