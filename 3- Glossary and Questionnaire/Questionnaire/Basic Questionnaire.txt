@@ -160,3 +160,9 @@ Ans- The corruption process involves adding noise to the data, where the noise a
 
 (------------------------------------------------------------------------)
 
+28- How is noise added to data in a diffusion model?
+
+Ans- Noise is added by mixing the input data with random noise, using a weighted sum controlled by a noise parameter.
+
+(------------------------------------------------------------------------)
+
