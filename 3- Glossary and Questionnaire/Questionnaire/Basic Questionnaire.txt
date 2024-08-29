@@ -34,3 +34,8 @@ Ans- Key steps include loading images, adding noise, feeding noisy images into t
 
 (-----------------------------------------------------------------------)
 
+7- What is the significance of iterative updates in diffusion models?
+
+Ans- Iterative updates allow the model to progressively improve its output, correcting errors made in early stages.
+
+(-----------------------------------------------------------------------)
