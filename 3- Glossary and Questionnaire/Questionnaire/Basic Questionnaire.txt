@@ -322,3 +322,9 @@ Ans- It helps address small batch size issues by summing gradients across multip
 
 (------------------------------------------------------------------------)
 
+55- What is the role of a scheduler in the 🤗 Diffusers library?
+
+Ans- The scheduler handles the update steps for generating images from noise.
+
+(------------------------------------------------------------------------)
+
