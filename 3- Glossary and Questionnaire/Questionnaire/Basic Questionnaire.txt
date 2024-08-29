@@ -202,3 +202,9 @@ Ans- Varying the corruption parameter across the batch simulates different noise
 
 (------------------------------------------------------------------------)
 
+35- How is the effectiveness of the BasicUNet evaluated during training?
+
+Ans- The effectiveness is evaluated by tracking the loss reduction across epochs and visually inspecting the model’s predictions on corrupted inputs.
+
+(------------------------------------------------------------------------)
+
