@@ -418,4 +418,10 @@ Ans- The conditioning vector is reshaped and expanded to match the image's width
 
 (------------------------------------------------------------------------)
 
+71- How is the loss calculated in this training loop?
+
+Ans- The loss is calculated by comparing the model's prediction to the added noise.
+
+(------------------------------------------------------------------------)
+
 
