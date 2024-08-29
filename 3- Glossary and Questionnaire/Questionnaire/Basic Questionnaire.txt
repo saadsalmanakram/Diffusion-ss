@@ -683,3 +683,8 @@ Ans- DDIM allows for deterministic sampling, while traditional diffusion models 
 
 (------------------------------------------------------------------------)
 
+115- What are deterministic and stochastic samplers?
+
+Ans- Deterministic samplers produce consistent results for the same input, while stochastic samplers introduce randomness and variability.
+
+(------------------------------------------------------------------------)
