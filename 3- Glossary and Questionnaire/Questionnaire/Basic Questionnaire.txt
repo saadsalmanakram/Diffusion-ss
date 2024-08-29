@@ -629,4 +629,10 @@ Ans- Recent advancements include MusicLM for text-to-audio generation, Noise2Mus
 
 (------------------------------------------------------------------------)
 
+106- What is iterative refinement in the context of diffusion models?
+
+Ans- Iterative refinement involves gradually reversing corruption (e.g., noise) to generate high-quality samples, using methods like token replacement or masking.
+
+(------------------------------------------------------------------------)
+
 
