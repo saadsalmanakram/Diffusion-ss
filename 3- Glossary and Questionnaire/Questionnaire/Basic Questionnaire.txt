@@ -797,3 +797,9 @@ Ans- Fine-tuning involves adjusting the model parameters using a dataset of audi
 
 (------------------------------------------------------------------------)
 
+134- What are the key steps in preparing a dataloader for training an audio diffusion model?
+
+Ans- Prepare a custom collate function to convert audio slices into spectrogram images and stack them into batches for training.
+
+(------------------------------------------------------------------------)
+
