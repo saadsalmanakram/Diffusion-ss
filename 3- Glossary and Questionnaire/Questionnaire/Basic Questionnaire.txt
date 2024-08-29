@@ -310,3 +310,9 @@ Ans- Guidance involves steering the generation process at inference time for add
 
 (------------------------------------------------------------------------)
 
+53- How can you speed up the sampling process in diffusion models?
+
+Ans- By using a new scheduler to create a faster sampling loop.
+
+(------------------------------------------------------------------------)
+
