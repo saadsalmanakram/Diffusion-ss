@@ -490,4 +490,10 @@ Ans- It generates high-resolution images from low-resolution inputs through addi
 
 (------------------------------------------------------------------------)
 
+83- How is inpainting used in Stable Diffusion?
+
+Ans- Inpainting regenerates specific masked regions of an image while keeping the rest intact.
+
+(------------------------------------------------------------------------)
+
 
