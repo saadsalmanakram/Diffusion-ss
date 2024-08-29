@@ -719,3 +719,9 @@ Ans- The goal is to convert an image into a noisy latent that can then be used t
 
 (------------------------------------------------------------------------)
 
+121- How are latents used in DDIM inversion?
+
+Ans- Latents are generated from the original image and then refined by moving through timesteps in reverse, aiming to accurately reconstruct the image from noise.
+
+(------------------------------------------------------------------------)
+
