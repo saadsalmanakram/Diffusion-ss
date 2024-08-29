@@ -256,3 +256,9 @@ Ans- Cross-attention layers help incorporate textual or other sequential conditi
 
 (------------------------------------------------------------------------)
 
+44- What can be achieved with a class-conditioned diffusion model?
+
+Ans- A class-conditioned diffusion model allows the generation of images based on specific class labels, providing more control over the output.
+
+(------------------------------------------------------------------------)
+
