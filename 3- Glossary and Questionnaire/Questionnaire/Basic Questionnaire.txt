@@ -515,3 +515,9 @@ Ans- The StableDiffusionPipeline generates images from text prompts by using a c
 
 (------------------------------------------------------------------------)
 
+87- How does Stable Diffusion handle image generation from text prompts?
+
+Ans- It converts the text prompt into embeddings, uses a UNet to process these embeddings in latent space, and decodes the result into an image.
+
+(------------------------------------------------------------------------)
+
