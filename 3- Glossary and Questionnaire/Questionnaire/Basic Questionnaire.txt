@@ -569,4 +569,16 @@ Ans- The VAE processes images in latent space where the dimensions must be divis
 
 (------------------------------------------------------------------------)
 
+96- What does the sampling loop in Stable Diffusion do?
+
+Ans- The sampling loop iteratively refines noisy latents using the UNet and scheduler until a final image is generated.
+
+(------------------------------------------------------------------------)
+
+97- How does the depth-to-image pipeline work in Stable Diffusion?
+
+Ans- The depth-to-image pipeline generates images based on depth maps, creating visually coherent images from depth information.
+
+(------------------------------------------------------------------------)
+
 
