@@ -94,3 +94,9 @@ Ans- To demonstrate the process of generating images using a pre-trained diffusi
 
 (------------------------------------------------------------------------)
 
+17- What is the significance of the guidance_scale parameter in the Stable Diffusion Pipeline?
+
+Ans- It determines how strongly the model tries to match the prompt during image generation.
+
+(------------------------------------------------------------------------)
+
