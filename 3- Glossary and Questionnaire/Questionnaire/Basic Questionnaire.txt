@@ -587,4 +587,10 @@ Ans- Progressive distillation involves training a student model from a teacher m
 
 (------------------------------------------------------------------------)
 
+99- How does classifier-free guidance contribute to diffusion model efficiency?
+
+Ans- Classifier-free guidance helps the student model match the teacher model’s output with fewer steps, enhancing sampling efficiency.
+
+(------------------------------------------------------------------------)
+
 
