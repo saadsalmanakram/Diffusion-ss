@@ -286,3 +286,9 @@ Ans- Using a GPU accelerates the computationally intensive fine-tuning and gener
 
 (------------------------------------------------------------------------)
 
+49- What is the significance of the finetune_model.py script?
+
+Ans- The script provides an easy way to experiment with different fine-tuning settings for diffusion models.
+
+(------------------------------------------------------------------------)
+
