@@ -394,4 +394,10 @@ Ans- Different schedules can yield better control and quality in generated image
 
 (------------------------------------------------------------------------)
 
+67- How is the class conditioning information incorporated into the UNet model?
+
+Ans- Class conditioning is incorporated by mapping class labels to learned vectors and concatenating them with the input channels.
+
+(------------------------------------------------------------------------)
+
 
