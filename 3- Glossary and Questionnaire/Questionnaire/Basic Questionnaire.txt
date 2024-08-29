@@ -635,4 +635,10 @@ Ans- Iterative refinement involves gradually reversing corruption (e.g., noise) 
 
 (------------------------------------------------------------------------)
 
+107- How are transformer-based architectures used in diffusion models?
+
+Ans- Transformers are used in place of UNets to improve efficiency and performance, as seen in models like Scalable Diffusion Models with Transformers (DiT) and MaskGIT.
+
+(------------------------------------------------------------------------)
+
 
