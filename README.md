@@ -3,7 +3,7 @@
 
 # 🌫️ Diffusion Masterclass – Understanding & Implementing Diffusion Models  
 
-![Diffusion Models](https://cdn.pixabay.com/photo/2023/12/22/20/57/ai-generated-8464364_1280.jpg)  
+![Diffusion Models](https://cdn.pixabay.com/photo/2024/03/04/14/17/ai-generated-8612487_1280.jpg)  
 
 ## 📝 Introduction  
 
